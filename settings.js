@@ -1,9 +1,9 @@
 const fs = require('fs')
 
 global.creator = 'Wanz-BOT'// yourname
-global.MONGO_DB_URI = "mongodb+srv://alwanpriyanto:<password>@restapi.xkywce0.mongodb.net/" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://mongodb-bot:87yEBsinWxcQikKh@cluster0.hli6aku.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "alwanpriyanto@gmail.com" //email
+global.your_email = "xtzymikasa@gmail.com" //email
 global.email_password = "Alwan3835U" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
