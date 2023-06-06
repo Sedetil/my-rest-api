@@ -4,7 +4,7 @@ global.creator = 'Wanz-BOT'// yourname
 global.MONGO_DB_URI = "mongodb+srv://mongodb-bot:1zsigH85RNl5ERUY@cluster0.qwz5upv.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "babayohnblack.com" //email
-global.email_password = "ynxkhjegrkdlhatq" //application password email
+global.email_password = "azviimjweaogbodv" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
