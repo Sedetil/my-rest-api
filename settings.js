@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Wanz-BOT'// yourname
-global.MONGO_DB_URI = "mongodb+srv://mongodb-bot:1zsigH85RNl5ERUY@cluster0.qwz5upv.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://mongodb-bot:1zsigH85RNl5ERUY@cluster0.qwz5upv.mongodb.net/" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "babayohnblack.com" //email
 global.email_password = "azviimjweaogbodv" //application password email
